@@ -21,7 +21,7 @@ text-transform: uppercase;
 */
 /* 範例⽰範：設定為⾼質感「深⼤海藍」 (RGB: 25, 25, 112)
 */
---bs-primary-rgb: 37, 63, ;
+--bs-primary-rgb: 37, 63, 98;
 /* (可選) 同步統⼀超連結與滑⿏懸停顏⾊ */
 --bs-link-color: rgb(37, 63, 98);
 --bs-link-hover-color: rgb(37, 63, 98);
