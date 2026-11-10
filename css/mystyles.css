@@ -25,8 +25,8 @@ text-transform: uppercase;
 */
 --bs-primary-rgb: 25, 25, 112;
 /* (可選) 同步統⼀超連結與滑⿏懸停顏⾊ */
---bs-link-color: rgb(248, 109, 160);
---bs-link-hover-color: rgb(248, 109, 160);
+--bs-link-color: rgb(37, 63, 98);
+--bs-link-hover-color: rgb(37, 63, 98);
 }
 /* 同步修改社群圖⽰按鈕 Hover 時的背景⾊彩 */
 .social-icons .social-icon:hover {
