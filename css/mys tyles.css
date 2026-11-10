@@ -32,3 +32,16 @@ text-transform: uppercase;
 .social-icons .social-icon:hover {
 background-color: rgb(25, 25, 112);
 }
+
+/* ===================================================
+3. 履歷內容區塊背景與邊界優化
+=================================================== */
+/* 選取所有 .resume-section 履歷區塊 */
+.resume-section {
+/* 設定柔和的淡乳⽩⾊或淡⿈⾊背景 (RGB: 255, 248, 220) */
+background-color: rgb(255, 248, 220);
+/* (可選) 加⼊牆⾯/紙張紋理背景圖 (圖⽚路徑相對於 mystyles.
+css 檔案) */
+/* background-image: url('../assets/img/white-wall-3-2.
+png'); */
+}
